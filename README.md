@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Yassine OUSEGGUA
 
-**OUSEGGUA/OUSEGGUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A passionate Developer originally from Morocco, now living and coding in France.**
 
 - 🔭 I’m currently working on a personal project.
 
