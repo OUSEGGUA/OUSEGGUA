@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning web development, focusing on SpringBoot and Angular.
 
-- 🤔 I’m looking for help with brainstorming new ideas for a startup in the sustainability sector.
+- 🤔 I’m looking for help...
 
 - 💬 Ask me about Spring, Java, Docker, Angular ...
 
